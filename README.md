@@ -1,4 +1,4 @@
-Simple 3dgame using the UnrealEngine4 (Blueprints).
+Simple game using the UnrealEngine4 (Blueprints).
 
 Implemented:
 
