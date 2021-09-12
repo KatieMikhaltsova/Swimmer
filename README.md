@@ -2,10 +2,11 @@ Simple 3dgame using the UnrealEngine4 (Blueprints).
 
 Implemented:
 
-1. Game logik.
+1. Game logic.
 2. Menu system (pause, restart).
 3. Score system.
 4. Saving the best result.
+5. Animation.
 
 
 Game
